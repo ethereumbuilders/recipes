@@ -40,7 +40,7 @@ Please [get in touch with us here](https://gitter.im/ethereumbuilders/recipes) o
 
 Support decentralized content creation with Bitcoin/PayPal via BountySource
 
-#####1. Click the "back this issue" button
+#####1. Click "Post a bounty!"
 ![](https://i.imgur.com/FvifUca.png)
 #####2. Select how much you want to put towards solving this issue
 ![](https://i.imgur.com/skLUF3J.png)
