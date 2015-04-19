@@ -30,6 +30,12 @@ Translation requests in 3 easy steps:
 
 ![Outdated content](https://i.imgur.com/Q2hnz9O.png)
 
+####Contributing & translating content
+
+Are you interested in contributing and/or translating tutorials and useful content? Fantastic! You are :sparkles:**awesome**:sparkles: !
+
+Please [get in touch with us here](https://gitter.im/ethereumbuilders/recipes) or send us an [email](mailto:hello@ethereum.builders). For now we are limited to invitations as the publishing platform does not support open multi-user login. That being said we're expecting in the near future to have the ability to open this up to anyone.
+
 ####Accelerating content creation in 5 easy steps
 
 Support decentralized content creation with Bitcoin/PayPal via BountySource
@@ -43,12 +49,6 @@ Support decentralized content creation with Bitcoin/PayPal via BountySource
 #####4. Send Bitcoin (in this example) to the provided address
 ![](https://i.imgur.com/zz6rWXp.png)
 #####5. Enjoy the warm fuzzy feeling of contributing to something worldchanding, while the GitHub issue and labels are handled automagically 
-
-####Contributing & translating content
-
-Are you interested in contributing and/or translating tutorials and useful content? Fantastic! You are :sparkles:**awesome**:sparkles: !
-
-Please [get in touch with us here](https://gitter.im/ethereumbuilders/recipes) or send us an [email](mailto:hello@ethereum.builders). For now we are limited to invitations as the publishing platform does not support open multi-user login. That being said we're expecting in the near future to have the ability to open this up to anyone.
 
 ####Further questions...or a friendly "hello"
 
