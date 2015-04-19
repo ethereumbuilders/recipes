@@ -4,9 +4,21 @@
 
 ####Requesting content
 
-If you have a tutorial request [please open an issue](https://github.com/ethereumbuilders/recipes/issues/new) and choose the **content request** label as shown in the picture bellow then click **Submit new issue**
+If you have a tutorial request: 
 
-![](https://i.imgur.com/asWHgk0.png)
+1. [Open an issue](https://github.com/ethereumbuilders/recipes/issues/new) specifyng the topic and content
+2. Choose the _content request_ label as shown in the picture bellow
+3. Click **Submit new issue**
+
+![Content request](https://i.imgur.com/asWHgk0.png)
+
+####For outdated tutorials
+
+1. [Open an issue](https://github.com/ethereumbuilders/recipes/issues/new) specifyng the topic and outdated content 
+2. Choose the _outdated content_ label as shown in the picture bellow
+3. Click **Submit new issue**
+
+![Outdated content](https://i.imgur.com/Q2hnz9O.png)
 
 ####Supporting content creation
 
