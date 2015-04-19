@@ -24,15 +24,15 @@ If you have a tutorial request:
 
 Support decentralized content creation with Bitcoin/PayPal via BountySource
 
-1. Click the "back this issue" button
+#####1. Click the "back this issue" button
 ![](https://i.imgur.com/FvifUca.png)
-2. Select how much you want to put towards solving this issue
+#####2. Select how much you want to put towards solving this issue
 ![](https://i.imgur.com/skLUF3J.png)
-3. Select Bitcoin or PayPal for making the payment
+#####3. Select Bitcoin or PayPal for making the payment
 ![](https://i.imgur.com/pmOyU0Y.png)
-4. Send Bitcoin (in this example) to the provided address
+#####4. Send Bitcoin (in this example) to the provided address
 ![](https://i.imgur.com/zz6rWXp.png)
-5. Enjoy the warm fuzzy feeling of contributing to something worldchanding, while the GitHub issue and labels are handled automagically 
+#####5. Enjoy the warm fuzzy feeling of contributing to something worldchanding, while the GitHub issue and labels are handled automagically 
 
 ####Contributing content
 
