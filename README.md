@@ -4,13 +4,23 @@
 
 ####Requesting content
 
-If you have a tutorial request: 
+Tutorial requests in 3 easy steps: 
 
 1. [Open an issue](https://github.com/ethereumbuilders/recipes/issues/new) specifyng the topic and content
 2. Choose the _content request_ label as shown in the picture bellow
 3. Click **Submit new issue**
 
 ![Content request](https://i.imgur.com/asWHgk0.png)
+
+####Requesting translations
+
+Translation requests in 3 easy steps: 
+
+1. [Open an issue](https://github.com/ethereumbuilders/recipes/issues/new) specifyng the topic, content and language
+2. Choose the _translation request_ label as shown in the picture bellow
+3. Click **Submit new issue**
+
+![](https://i.imgur.com/DoyTtQ9.png)
 
 ####For outdated tutorials
 
