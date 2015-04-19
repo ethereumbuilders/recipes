@@ -20,7 +20,11 @@ If you have a tutorial request:
 
 ![Outdated content](https://i.imgur.com/Q2hnz9O.png)
 
-####Supporting content creation
+####Accelerating content creation
+
+Support decentralized content creation with Bitcoin/PayPal via BountySource
+
+![](https://i.imgur.com/FvifUca.png)
 
 ####Contributing content
 
