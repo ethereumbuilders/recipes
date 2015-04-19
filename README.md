@@ -20,7 +20,7 @@ If you have a tutorial request:
 
 ![Outdated content](https://i.imgur.com/Q2hnz9O.png)
 
-####Accelerating content creation
+####Accelerating content creation in 5 easy steps
 
 Support decentralized content creation with Bitcoin/PayPal via BountySource
 
@@ -35,6 +35,14 @@ Support decentralized content creation with Bitcoin/PayPal via BountySource
 #####5. Enjoy the warm fuzzy feeling of contributing to something worldchanding, while the GitHub issue and labels are handled automagically 
 
 ####Contributing content
+
+Are you interested in contributing tutorials and useful content? Fantastic! You are :sparkles:**awesome**:sparkles: !
+
+Please get in touch with us here or send us an email. For now we are limited to invitations as the publishing platform does not support open multi-user login. That being said we're expecting in the near future to have the ability to open this up to anyone.
+
+####Translating content
+
+
 
 ####Further questions... 
 
