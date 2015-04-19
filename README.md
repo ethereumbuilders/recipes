@@ -2,6 +2,12 @@
 
 [![Join the chat at https://gitter.im/ethereumbuilders/recipes](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumbuilders/recipes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+####Contributing & translating content
+
+Are you interested in contributing and/or translating tutorials and useful content? Fantastic! You are :sparkles:**awesome**:sparkles: !
+
+Please [get in touch with us here](https://gitter.im/ethereumbuilders/recipes) or send us an [email](mailto:hello@ethereum.builders). For now we are limited to invitations as the publishing platform does not support open multi-user login. That being said we're expecting in the near future to have the ability to open this up to anyone.
+
 ####Requesting content
 
 Tutorial requests in 3 easy steps: 
@@ -29,12 +35,6 @@ Translation requests in 3 easy steps:
 3. Click **Submit new issue**
 
 ![Outdated content](https://i.imgur.com/Q2hnz9O.png)
-
-####Contributing & translating content
-
-Are you interested in contributing and/or translating tutorials and useful content? Fantastic! You are :sparkles:**awesome**:sparkles: !
-
-Please [get in touch with us here](https://gitter.im/ethereumbuilders/recipes) or send us an [email](mailto:hello@ethereum.builders). For now we are limited to invitations as the publishing platform does not support open multi-user login. That being said we're expecting in the near future to have the ability to open this up to anyone.
 
 ####Accelerating content creation in 5 easy steps
 
